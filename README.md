@@ -1,1 +1,1 @@
-# Automatic-license-plate-reading-
+# Automatic license plate reading
